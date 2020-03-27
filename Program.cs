@@ -8,7 +8,7 @@ namespace ProjetoTeste_Git
         {
             Console.WriteLine("Digite um numero");
             int numero = int.Parse(Console.ReadLine());
-            Console.WriteLine("Bom dia!" + numero);
+            Console.WriteLine("Bom dia!" + numero*2);
         }
     }
 }
